@@ -1,0 +1,18 @@
+# Summary
+
+* [Getting Started](getting-started/README.md)
+* [Points Program](points-program/README.md)
+* [Staking](staking/README.md)
+  * [Debt Jubilee](staking/debt-jubilee.md)
+  * [Legacy Escrow](staking/legacy-escrow.md)
+* [Trading](trading/README.md)
+  * [Mainnet](trading/mainnet.md)
+  * [Legacy & Deprecated](trading/legacy/README.md)
+    * [Perps V2 on Optimism](trading/legacy/perps-v2-optimism.md)
+    * [Arbitrum](trading/legacy/arbitrum.md)
+    * [Base](trading/legacy/base.md)
+* [For Liquidity Providers](liquidity-providers/README.md)
+  * [Legacy](liquidity-providers/legacy/README.md)
+    * [Arbitrum](liquidity-providers/legacy/arbitrum.md)
+    * [Base](liquidity-providers/legacy/base.md)
+* [For Developers](developers/README.md) 
