@@ -2,9 +2,12 @@
 
 * [Getting Started](getting-started/README.md)
 * [Points Program](points-program/README.md)
-* [Staking](staking/README.md)
+* [Staking](staking/how-to-stake-snx.md)
+  * [How to Stake SNX](staking/how-to-stake-snx.md)
   * [Debt Jubilee](staking/debt-jubilee.md)
   * [Legacy Escrow](staking/legacy-escrow.md)
+  * [sUSD Staking](staking/susd-staking.md)
+  * [Staking FAQ](staking/staking-faq.md)
 * [Trading](trading/README.md)
   * [Mainnet](trading/mainnet.md)
   * [Legacy & Deprecated](trading/legacy/README.md)
