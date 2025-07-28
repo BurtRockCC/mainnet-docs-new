@@ -10,6 +10,7 @@ SNX is the governance and utility token of the Synthetix protocol. It is used to
 
 * **sUSD** is the primary over-collateralized stablecoin of the Synthetix ecosystem. It is available on Ethereum Mainnet for staking and LPing, and is available on Optimism for trading on Perps v2 (now closed to new users) and settling legacy Debt Jubilee positions.
   * [sUSD on CoinGecko](https://www.coingecko.com/en/coins/susd)
+  * See more about [bridging-susd.md](bridging-susd.md "mention")
 
 ### Legacy&#x20;
 
