@@ -8,4 +8,4 @@ Points will be earned for a variety of activities across the Synthetix ecosystem
 - Providing Liquidity (LPing)
 - And more to be announced
 
-Stay tuned for additional updates and details as the program rolls out. Check back here soon for the latest information on how to maximize your points and participate in upcoming phases!
+Stay tuned for additional updates and details as the program rolls out. Check back here soon for the latest information on how to maximize your points and participate in upcoming phases! 

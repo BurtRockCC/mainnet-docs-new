@@ -4,6 +4,8 @@
 
 The sUSD staking program is live! Stake your sUSD at [420.synthetix.io](https://420.synthetix.io/) to earn a share of **5 million SNX rewards** distributed over 12 months. Rewards unlock linearly over 3 months after the program ends (April 19, 2026). **Note:** Your sUSD will be locked until April 19, 2026, with no withdrawals until the end of the term.
 
+**Need to bridge sUSD?** See the [Bridging sUSD](../overview/tokens.md#bridging-susd) section in the Tokens overview.
+
 - [Read the official announcement](https://blog.synthetix.io/susd-staks-5-million-snx-rewards/)
 
 ### For Debt Jubilee Participants
