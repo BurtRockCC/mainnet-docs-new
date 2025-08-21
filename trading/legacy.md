@@ -2,7 +2,7 @@
 
 This section documents deprecated Synthetix perps trading deployments on Optimism, Arbitrum, and Base. These are for reference only— all new trading will be on Synthetix Mainnet once live.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Traders and LPs have 6 months from the date of deprecation to complete any necessary claims or resolve issues.
 {% endhint %}
 
