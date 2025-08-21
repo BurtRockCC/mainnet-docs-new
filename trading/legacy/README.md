@@ -1,5 +1,12 @@
-# Legacy & Deprecated Trading
+# Legacy & Deprecated
 
-This section documents legacy and deprecated Synthetix perps trading deployments on Optimism, Arbitrum, and Base. These are for reference only—no new accounts can be created, and all new trading will be on Synthetix Mainnet once live.
+This section documents deprecated Synthetix perps trading deployments on Optimism, Arbitrum, and Base. These are for reference only— all new trading will be on Synthetix Mainnet once live.
 
-See the individual pages for details and support information.
+Traders have 6 months from the date of deprecation to complete any necessary claims or resolve issues.
+
+* Perps trading on Optimism is now deprecated (as of August 25th, 2025). Margin for most traders returned to their wallets in the weeks following deprecation.
+* Perps trading on Base is now deprecated (as of July 7th, 2025). Margin for most traders returned to their wallets in the weeks following deprecation.
+* Arbitrum was fully deprecated (including LP assetS) on June 13th, 2025.&#x20;
+
+If you used multicollateral, owed debt or had a custom setup, you may need to claim your margin or LP from the Synthetix Treasury. Please [join the Synthetix Discord](https://discord.gg/synthetix) and create a support ticket for assistance.
+

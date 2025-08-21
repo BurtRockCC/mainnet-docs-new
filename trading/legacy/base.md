@@ -1,7 +1,2 @@
 # Base (Deprecated)
 
-Perps trading on Base is now deprecated (as of July 7th, 2025). Margin for most traders will be returned to their wallets in the weeks following deprecation.
-
-If you used multicollateral or had a custom setup, you may need to claim your margin from the Synthetix Treasury. Please [join the Synthetix Discord](https://discord.gg/synthetix) and create a support ticket for assistance.
-
-Traders have 6 months from the date of deprecation to complete any necessary claims or resolve issues.
