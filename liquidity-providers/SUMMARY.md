@@ -1,5 +1,5 @@
-# For Liquidity Providers
+# Table of contents
 
-* [Synthetix Mainnet](mainnet.md)
+* [Synthetix Mainnet](README.md)
 * [Earning Yield on sUSD](earn-yield-on-susd.md)
-* [Legacy](legacy.md) 
+* [Legacy](legacy.md)

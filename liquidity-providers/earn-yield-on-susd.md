@@ -1,4 +1,4 @@
-# Earn yield on sUSD
+# Earning Yield on sUSD
 
 ## Stake sUSD and sUSDe in Curve & Deposit LP Tokens via StakeDAO: Step by Step Guide
 
@@ -8,7 +8,9 @@ This guide walks you through depositing sUSD and sUSDe into a Curve pool, receiv
 
 #### Prepare Assets and Wallet
 
-Get your stable coins ready: Ensure you have the required sUSD and/or sUSDe in your wallet, with enough ETH to cover gas fees. Both sUSD and or sUSDe can be acquired via [Curve](https://curve.fi/).
+Get your stable coins ready: Ensure you have the required sUSD and/or sUSDe in your wallet, with enough ETH to cover gas fees. Both sUSD and or sUSDe can be acquired via [Curve](https://curve.fi/).&#x20;
+
+LP incentives are only available on Ethereum Mainnet. If you have sUSD on Optimism, please see our guide on [Bridging sUSD](https://docs.synthetix.io/tokens/bridging-susd).
 
 {% hint style="success" %}
 Security Tip: Always double-check that you’re interacting with the correct smart contracts and websites to avoid scams.
@@ -36,7 +38,7 @@ Go to the [StakeDAO Yield Page](https://www.stakedao.org/yield?search=susd%20sus
 
 Select the strategy associated with your Curve pool. Follow the on-screen instructions for two more transactions for an approval and deposit your LP tokens into the StakeDAO strategy.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-07 at 4.52.44 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot%202025-03-07%20at%204.52.44%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>
 
 ### Start Earning Rewards:
 
@@ -50,4 +52,4 @@ Stay Updated: Regularly review the strategy performance and any updates to ensur
 
 ### That’s it!
 
-By following this guide, you have learned how to deposit your sUSD and/or sUSDe into a Curve liquidity pool, obtain LP tokens, and further stake those tokens in a StakeDAO strategy to earn rewards. 
+By following this guide, you have learned how to deposit your sUSD and/or sUSDe into a Curve liquidity pool, obtain LP tokens, and further stake those tokens in a StakeDAO strategy to earn rewards.
