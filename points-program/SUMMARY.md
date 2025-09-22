@@ -1,3 +1,3 @@
-# Points Program
+# Table of contents
 
-* [Points Program](mainnet.md) 
+* [Points Program](README.md)
