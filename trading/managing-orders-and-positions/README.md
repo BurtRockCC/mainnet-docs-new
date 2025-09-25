@@ -1,2 +1,0 @@
-# Managing Orders and Positions
-
