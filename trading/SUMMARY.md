@@ -9,6 +9,8 @@
   * [Placing Orders](how-to-trade/placing-orders.md)
   * [Managing Orders and Positions](how-to-trade/managing-orders-and-positions.md)
   * [Charts and Market Data](how-to-trade/charts-and-market-data.md)
+  * [Collateral, Margin and Leverage](how-to-trade/collateral-margin-and-leverage.md)
+  * [Fees and Funding](how-to-trade/fees-and-funding.md)
 * [Legacy & Deprecated Versions](legacy.md)
 * [Glossary of Terms](glossary-of-terms.md)
 * [FAQ & Support](faq.md)
