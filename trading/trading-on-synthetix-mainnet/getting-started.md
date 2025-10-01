@@ -30,6 +30,15 @@ Your wallet must be funded with one of the supported **margin assets** before cr
 * wstETH
 * cbBTC
 
-{% hint style="info" %}
-Ensure your funds are held on **Ethereum Mainnet (L1)**. If you’re withdrawing from a centralized exchange, always withdraw via the **Ethereum network**.
-{% endhint %}
+### Creating a Trading Account
+
+After your wallet is connected and funded, click **Create Account** in the top-right corner of the interface. This sets up your **perpetual futures account**, which is controlled by your wallet.\
+&#xNAN;_(screenshot: `3. Create Acct.png`)_
+
+### Depositing Margin
+
+To create your trading account, you will be required to make an initial margin deposit. Following you initial margin deposit, you can&#x20;
+
+* Deposited margin is immediately available for trading.
+* The system uses **cross-margin**: all margin in your account is shared across open positions and at risk if liquidation thresholds are reached.
+* You may add more margin at any time, even with open trades, but keep in mind liquidation can occur before additional deposits are confirmed on-chain.&#x20;

@@ -1,11 +1,8 @@
 # Table of contents
 
-* [Synthetix Mainnet](README.md)
-* [Getting Started](getting-started/README.md)
-  * [Creating an Account](getting-started/creating-an-account.md)
-  * [Depositing Margin](getting-started/depositing-margin.md)
-  * [Withdrawing Margin](getting-started/withdrawing-margin.md)
-* [Trading on Synthetix Mainnet](trading-on-synthetix-mainnet/README.md)
+* [Trading on Synthetix Mainnet](README.md)
+  * [Getting Started](trading-on-synthetix-mainnet/getting-started.md)
+  * [Navigating Synthetix Mainnet](trading-on-synthetix-mainnet/navigating-synthetix-mainnet.md)
   * [Placing Orders](trading-on-synthetix-mainnet/placing-orders.md)
   * [Managing Orders and Positions](trading-on-synthetix-mainnet/managing-orders-and-positions.md)
   * [Charts and Market Data](trading-on-synthetix-mainnet/charts-and-market-data.md)

@@ -1,4 +1,4 @@
-# Synthetix Mainnet
+# Trading on Synthetix Mainnet
 
 Synthetix is launching the first Ethereum Mainnet settled CLOB (Central Limit Order Book) perpetual futures exchange. This hybrid onchain-offchain architecture allows Synthetix to overcome Ethereum Mainnet's block latency and gas costs while delivering institutional-grade performance.
 
@@ -25,12 +25,6 @@ Synthetix is launching the first Ethereum Mainnet settled CLOB (Central Limit Or
 * **Subaccount support** for portfolio management and risk isolation
 * **Account data privacy** - Orders and trades not publicly displayed
 * **Level 2 order book data** - Quantity available at each price level
-
-### Supported Collateral Types
-
-* **sUSDe** - Stablecoin collateral with yield capture
-* **cbBTC** - Bitcoin collateral support
-* **wstETH** - ETH collateral with yield earning
 
 ## Launch Timeline
 
